@@ -1,0 +1,5 @@
+1.- buscar datos de https://es.datachile.io/geo/chile
+2.- instalar xampp
+3.- ejecutar xampp C:\xampp xampp-control.exe
+4.- seguir el paso a paso del video https://www.youtube.com/watch?v=mObLsAU6Cr4 para pasar de excel a bd
+5.- tener archivos ibd y frm
